@@ -1,0 +1,17 @@
+# SQL Server backup files
+*.bak
+*.trn
+*.ldf
+*.mdf
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
